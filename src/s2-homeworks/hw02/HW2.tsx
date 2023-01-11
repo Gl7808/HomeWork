@@ -33,6 +33,10 @@ const defaultAffairs : Array<AffairType> = [ // need to fix any
     {_id: 3, name: 'games', priority: 'high'},
     {_id: 4, name: 'work', priority: 'middle'},
     {_id: 5, name: 'html & css', priority: 'middle'},
+    {_id: 6, name: 'Dota 2', priority: 'low'},
+    {_id: 7, name: 'PathOfExile', priority: 'low'},
+    {_id: 8, name: 'JavaScript', priority: 'high'},
+    {_id: 9, name: 'it-incubator', priority: 'high'}
 ]
 
 // pure helper functions
