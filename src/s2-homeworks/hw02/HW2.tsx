@@ -36,7 +36,12 @@ const defaultAffairs : Array<AffairType> = [ // need to fix any
     {_id: 6, name: 'Dota 2', priority: 'low'},
     {_id: 7, name: 'PathOfExile', priority: 'low'},
     {_id: 8, name: 'JavaScript', priority: 'high'},
-    {_id: 9, name: 'it-incubator', priority: 'high'}
+    {_id: 9, name: 'it-incubator', priority: 'high'},
+    {_id: 10, name: 'it-incubator', priority: 'high'},
+    {_id: 11, name: 'it-incubator', priority: 'high'},
+    {_id: 12, name: 'it-incubator', priority: 'high'},
+    {_id: 13, name: 'it-incubator', priority: 'high'},
+    {_id: 14, name: 'it-incubator', priority: 'high'},
 ]
 
 // pure helper functions
